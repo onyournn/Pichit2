@@ -1,0 +1,73 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  dots_indicator: ^3.0.0
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.0
+  firebase_storage: ^12.3.3
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  firebase_app_check: ^0.3.1+3
+  image_picker: ^0.8.4+4
+  url_launcher: ^6.0.20
+  geolocator: ^9.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/buengsifai1.jpg
+    - assets/images/bamilinchak1.jpg
+    - assets/images/bamilinchak2.jpg
+    - assets/images/bamilinchak3.jpg
+    - assets/images/bamilinchak4.jpg
+    - assets/images/buengsifai2.jpg
+    - assets/images/buengsifai3.jpg
+    - assets/images/buengsifai4.jpg
+    - assets/images/homepage.jpeg
+    - assets/images/lanvela1.jpg
+    - assets/images/lanvela2.jpg
+    - assets/images/lanvela3.jpg
+    - assets/images/lanvela4.jpg
+    - assets/images/bali.jpg
+    - assets/images/lemonarchcafe1.jpg
+    - assets/images/lemonarchcafe2.jpg
+    - assets/images/lemonarchcafe3.jpg
+    - assets/images/makesense1.jpg
+    - assets/images/makesense2.jpg
+    - assets/images/makesense3.jpg
+    - assets/images/makesense4.jpg
+    - assets/images/makesense5.jpg
+    - assets/images/makham.jpeg
+    - assets/images/OrchidPlaceHotel.jpg
+    - assets/images/sapansin.jpg
+    - assets/images/wangkrot1.jpg
+    - assets/images/wangkrot2.jpg
+    - assets/images/wangkrot3.jpg
+    - assets/images/watkhao1.jpg
+    - assets/images/watkhao2.jpg
+    - assets/images/watpo1.jpg
+    - assets/images/watpo2.jpg
+    - assets/images/watpo3.jpg
+    - assets/images/watpo4.jpg
+    - assets/images/watthainum.jpg
+    - assets/images/watthaluang1.jpeg
+    - assets/images/watthaluang2.jpg
+    - assets/images/logo.png
+    - assets/images/watthaluang3.jpg
